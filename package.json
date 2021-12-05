@@ -1,0 +1,48 @@
+{
+  "packageManager": "yarn@3.1.1",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/react-icons": "^3.0.0",
+    "next": "^12.0.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "react-is": "^17.0.2",
+    "recoil": "^0.5.2",
+    "styled-components": "^5.3.3",
+    "styled-reset": "^4.3.4"
+  },
+  "devDependencies": {
+    "@types/eslint": "^8",
+    "@types/js-yaml": "^4",
+    "@types/node": "^16.11.11",
+    "@types/prettier": "^2",
+    "@types/react": "^17",
+    "@types/react-dom": "^17",
+    "@types/react-is": "^17",
+    "@types/styled-components": "^5.1.16",
+    "@typescript-eslint/eslint-plugin": "^5.5.0",
+    "@typescript-eslint/parser": "^5.5.0",
+    "eslint": "<8.0.0",
+    "eslint-config-airbnb": "^19.0.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-airbnb-typescript": "^16.0.0",
+    "eslint-config-next": "^12.0.4",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-import-resolver-node": "^0.3.6",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-next": "^0.0.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.27.1",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "js-yaml": "^4.1.0",
+    "prettier": "^2.5.0",
+    "typescript": "^4.5.2"
+  }
+}
